@@ -108,8 +108,12 @@ $ git clone
 
  https://github.com/NATASHA-ct/frontend_hello_rails_react.git
 
-#### Link to backend
+#### Link to backend repository
     https://github.com/NATASHA-ct/Backend_Hello_Rails_React.git
+
+#### Link to backend repository pull request
+ 
+    https://github.com/NATASHA-ct/Backend_Hello_Rails_React/pull/1
 
 ### Install
 

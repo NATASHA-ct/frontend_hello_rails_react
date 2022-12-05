@@ -1,1 +1,0 @@
-# Frontend_Hello_Rails_React

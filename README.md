@@ -122,6 +122,12 @@ $ git clone
     - Initialize your project with Git.
     - Make sure that your project has Postgres database set up.
     - Run rails server and visi thttp://127.0.0.1:3000/ in your browser!
+    git clone git@github.com:NATASHA-ct/Frontend_Hello_Rails_React.git
+    
+     - cd frontend_hello_rails_react
+     - npm install
+     - npm start
+     
 
     ### run the following in your terminal:
     - gem install rails
